@@ -2,7 +2,8 @@
 Payment form app in ReactJS
 
 # To run the project:
-
+0. Go to Desktop/Udemy/React_PaymentForm
+  -- sorry about the long path ^_^
 1. git clone https://github.com/xiaohu07/React_PaymentForm.git
   -- to your desired local folder
   
